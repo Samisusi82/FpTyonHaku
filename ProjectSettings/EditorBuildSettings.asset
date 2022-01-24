@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/MyScenes/Asunto.unity
     guid: f725e9d8a98fc0c4cbd1838f8f8ac9f1
   - enabled: 1
+    path: "Assets/MyScenes/Ty\xF6Paikka.unity"
+    guid: 4576858cf8b3f184f954f183c4f50488
+  - enabled: 1
     path: "Assets/MyScenes/Ty\xF6nHakuSivusto.unity"
     guid: 94cc5f2e68238e1499418878c85daba2
   - enabled: 1
