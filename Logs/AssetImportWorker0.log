@@ -149,3 +149,158 @@ Received Import Request.
 Start importing Assets/_Television_set/Sources/Cubemap.cubemap using Guid(9d93495c52057fb46bc81ce86086d627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4496274408cd1eb8ed4b4c60cfa98bec') in 0.070265 seconds
   Import took 0.079514 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4915.475784 seconds.
+  path: Assets/MyMaterials/20200211_123127.mat
+  artifactKey: Guid(9832902421e6eb149ac9fb144918a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyMaterials/20200211_123127.mat using Guid(9832902421e6eb149ac9fb144918a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b16ce0de37d7aab08c95d85ea68c28') in 0.344590 seconds
+  Import took 0.564077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001064 seconds.
+  path: Assets/MyMaterials/Kaapinovi.mat
+  artifactKey: Guid(94e003e287ed335438464e6268ce1a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyMaterials/Kaapinovi.mat using Guid(94e003e287ed335438464e6268ce1a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967e4d0629f28a30285b00d700b42483') in 0.025345 seconds
+  Import took 0.036673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/MyMaterials/refrigerator_back.mat
+  artifactKey: Guid(94ed213efdaf9994abdcd498e0a27635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyMaterials/refrigerator_back.mat using Guid(94ed213efdaf9994abdcd498e0a27635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a95dd45092832090f600f1e66a2127') in 0.031624 seconds
+  Import took 0.039231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/MyMaterials/Runko.mat
+  artifactKey: Guid(0fd14ede679bd9843892541546515df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyMaterials/Runko.mat using Guid(0fd14ede679bd9843892541546515df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc5d4b9327e1b4cb40259921eecae43') in 0.023738 seconds
+  Import took 0.031768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/MyMaterials/Ruskea.mat
+  artifactKey: Guid(65ef407479c203443bfc1d0a8f1adcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyMaterials/Ruskea.mat using Guid(65ef407479c203443bfc1d0a8f1adcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c297c898ec932ffec3255fcde4c95eb5') in 0.024955 seconds
+  Import took 0.034478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL-Emissive.png
+  artifactKey: Guid(b10fa16559c0a7b4db8a76716cf165ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL-Emissive.png using Guid(b10fa16559c0a7b4db8a76716cf165ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca76d0a07ca600a5e6178d6a37cdd6a2') in 0.034532 seconds
+  Import took 0.041562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL.png
+  artifactKey: Guid(ab9f9ceec5d21e24c9e03cadab93d5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL.png using Guid(ab9f9ceec5d21e24c9e03cadab93d5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ee947e618a2a88e50903e8b8f7669a') in 0.026885 seconds
+  Import took 0.033758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL-MetalGloss.png
+  artifactKey: Guid(3b174108ff7dff440bb6783b5736b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyOfficeProps_LITE/Textures/LPOP_TextureAtlas1_FULL-MetalGloss.png using Guid(3b174108ff7dff440bb6783b5736b76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537d3e62ef441b0f07aeae2b60704fbb') in 0.028470 seconds
+  Import took 0.039639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.020 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2245 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2783.
+Total: 3.732200 ms (FindLiveObjects: 0.233600 ms CreateObjectMapping: 0.091800 ms MarkObjects: 3.265600 ms  DeleteObjects: 0.140000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2245 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2785.
+Total: 7.979200 ms (FindLiveObjects: 0.509000 ms CreateObjectMapping: 0.235900 ms MarkObjects: 7.026700 ms  DeleteObjects: 0.204100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2245 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2787.
+Total: 4.396600 ms (FindLiveObjects: 0.617500 ms CreateObjectMapping: 0.414600 ms MarkObjects: 3.210200 ms  DeleteObjects: 0.151200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
