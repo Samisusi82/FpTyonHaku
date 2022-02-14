@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 2380818862415568431}
   - component: {fileID: 2380818862415568424}
   - component: {fileID: 6044285574232831727}
-  m_Layer: 0
+  - component: {fileID: 1532209268}
+  m_Layer: 8
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,6 +97,36 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.2500002, y: 2.25, z: 0.1757813}
   m_Center: {x: 0.62499917, y: 1.125, z: -0.0019507413}
+--- !u!114 &1532209268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2380818862415568426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbbb195786c87b41966ff755bd1c6a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onInteract:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1126842227}
+        m_TargetAssemblyTypeName: AnimationHandler, Assembly-CSharp
+        m_MethodName: ToggleBool
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Open
+          m_BoolArgument: 0
+        m_CallState: 2
+  interactIcon: {fileID: 21300000, guid: f1e9f424387ba88469bc8846d2fcf572, type: 3}
+  iconSize: {x: 50, y: 50}
+  ID: 0
 --- !u!1 &2380818862828320361
 GameObject:
   m_ObjectHideFlags: 0
@@ -106,6 +137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2380818862828320360}
   - component: {fileID: 2380818862828320367}
+  - component: {fileID: 1126842227}
   m_Layer: 3
   m_Name: Simple_Door
   m_TagString: Untagged
@@ -122,7 +154,7 @@ Transform:
   m_GameObject: {fileID: 2380818862828320361}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.75, y: 1, z: 11.0199995}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children:
   - {fileID: 2380818862415568425}
   - {fileID: 8280927365268022225}
@@ -140,7 +172,7 @@ Animator:
   m_GameObject: {fileID: 2380818862828320361}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 25a12fa1ed0c2d843a0e979e07164a22, type: 2}
+  m_Controller: {fileID: 9100000, guid: ae3ced55fecb70c4e836393cee1da3d6, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -149,6 +181,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1126842227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2380818862828320361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61f989811b4efac4489bf3d6a17a3438, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2380818862828320367}
 --- !u!1 &8280927365268022222
 GameObject:
   m_ObjectHideFlags: 0
