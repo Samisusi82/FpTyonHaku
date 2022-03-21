@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyScenes/MainScene.unity
+    path: Assets/MyScenes/Asunto.unity
+    guid: 1e7ebaa7ff0fbe148a8b4d5ae05c5a80
+  - enabled: 1
+    path: "Assets/MyScenes/Ty\xF6Paikka.unity"
     guid: e72f8273a775654439f03f5139e299c0
   - enabled: 1
-    path: "Assets/MyScenes/Ty\xF6nHakuSivusto.unity"
-    guid: 94cc5f2e68238e1499418878c85daba2
-  - enabled: 1
-    path: Assets/MyScenes/Hakemus.unity
-    guid: 4eacae36b8a11974b8327f5758af62fc
+    path: Assets/MyScenes/testiScene.unity
+    guid: 7df37fe0762fb0a43b90313ffaa16918
   - enabled: 1
     path: Assets/MyScenes/Kaupunki.unity
     guid: 6b323d4cb5f07634183aacf86cdbeaa4
