@@ -27,13 +27,13 @@ public class GameControl : MonoBehaviour
     {
         SceneManager.LoadScene("asunto");
     }
-    public void TyöPaikka()
+    public void Office()
     {
-        SceneManager.LoadScene("työpaikka");
+        SceneManager.LoadScene("office");
     }
-    public void TestiScene()
+    public void VideoScene()
     {
-        SceneManager.LoadScene("testiscene");
+        SceneManager.LoadScene("videoscene");
     }
     
     public void Quit()

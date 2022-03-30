@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/MyScenes/Asunto.unity
     guid: 1e7ebaa7ff0fbe148a8b4d5ae05c5a80
   - enabled: 1
-    path: "Assets/MyScenes/Ty\xF6Paikka.unity"
+    path: Assets/MyScenes/Office.unity
     guid: e72f8273a775654439f03f5139e299c0
   - enabled: 1
-    path: Assets/MyScenes/testiScene.unity
+    path: Assets/MyScenes/VideoScene.unity
     guid: 7df37fe0762fb0a43b90313ffaa16918
   - enabled: 1
     path: Assets/MyScenes/Kaupunki.unity
